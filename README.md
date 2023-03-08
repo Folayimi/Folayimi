@@ -15,8 +15,8 @@ I am a JavaScript fullstack developer trying to be best at what I do and incorpo
 <hr/> 
 
 ## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevEmmy&theme=algolia" alt="DevEmmy" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmmy&theme=algolia&layout=compact" alt="DevEmmy" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Folayimi&theme=algolia" alt="DevEmmy" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Folayimi&theme=algolia&layout=compact" alt="Folayimi" /></p>
 
 <br>
 <hr/>
