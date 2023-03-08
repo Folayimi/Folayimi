@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Hi , I'm Emmy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Fola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DevEmmy"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;JavaScript%20|%20Express%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Folayimi"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;JavaScript%20|%20Express%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <!-- I am Human 😀 -->
