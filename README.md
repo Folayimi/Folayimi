@@ -49,7 +49,7 @@ I am a JavaScript fullstack developer trying to be best at what I do and incorpo
 	<a href="mailto:ridwanfolayimi@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/Folayimi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 	<a href="https:/www.linkedin.com/in/ridwan-ogunlade-28a990212/?lipi=urn%3Ali%3Apage%3Aprofile_common_profile_index%3Ba7c77e8e-fb4d-49e8-9a7b-9c7d82bf039d"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-	<a href="https://twitter.com/devEmmy_"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
+	<a href="https://twitter.com/Fola_Dev"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
 	<!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 	
