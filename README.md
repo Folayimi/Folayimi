@@ -8,7 +8,7 @@
 <!-- I am Human 😀 -->
 
 <h4 align="center">
-I am a JavaScript fullstack developer trying to be best at what I do and incorporate other tech stacks inline with what I do. More importantly build products that will blast the tech space.
+I am a JavaScript/TypeScript fullstack developer trying to be best at what I do and incorporate other tech stacks inline with what I do. More importantly build products that will blast the tech space.
 </h4>
 <br>
 
